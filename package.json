@@ -1,6 +1,6 @@
 {
   "name": "svelte-preprocess-ignorecss",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Svelte plugin that allows to ignore some of the css",
   "repository": {
     "url": "https://github.com/stephane-vanraes/svelte-preprocess-ignorecss"

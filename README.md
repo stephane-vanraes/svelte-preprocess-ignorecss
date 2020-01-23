@@ -5,7 +5,7 @@ Sometimes you want to import components without their styles, this plugins allow
 ## Usage
 
 ```javascript
-const ignoreCss = require('svelte-preprocess-ignorecss);
+const ignoreCss = require('svelte-preprocess-ignorecss');
 plugins: [
     preprocess: [
         ignoreCss()

@@ -5,7 +5,12 @@
   "repository": {
     "url": "https://github.com/stephane-vanraes/svelte-preprocess-ignorecss"
   },
-  "main": "index.js",
+  "keywords": [
+    "svelte",
+    "preprocess",
+    "css"
+  ],
+  "main": "src/index.js",
   "author": "Stephane Vanraes",
   "license": "MIT"
 }
